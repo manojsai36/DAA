@@ -1,0 +1,2 @@
+PS C:\Users\nshas\git_practical1\DAA\practical06> & "C:\Users\nshas\git_practical1\DAA\practical06\matrix chain.exe"
+216
