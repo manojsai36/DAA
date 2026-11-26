@@ -1,0 +1,2 @@
+PS C:\Users\nshas\git_practical1\DAA\practical12> & C:\Users\nshas\git_practical1\DAA\practical12\traversal.exe
+Minimum tour cost = 80
